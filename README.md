@@ -9,5 +9,5 @@
                                                                             ▜█▛▘ labs
                                    ▀▀▀▀▀                                        
 ```
-# Machine_Learning_Labs
-For something which cannot be explicitly programmed
+# For what Machine_Learning_Labs ?
+  For something which can never be explicitly programmed
